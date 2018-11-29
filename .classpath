@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/s592100/Downloads/ejml-v0.32-libs/ejml-simple-0.32.jar"/>
+	<classpathentry kind="lib" path="C:/Users/s592100/Downloads/ejml-v0.32-libs/ejml-cdense-0.32.jar"/>
+	<classpathentry kind="lib" path="C:/Users/s592100/Downloads/ejml-v0.32-libs/ejml-core-0.32.jar"/>
+	<classpathentry kind="lib" path="C:/Users/s592100/Downloads/ejml-v0.32-libs/ejml-ddense-0.32.jar"/>
+	<classpathentry kind="lib" path="C:/Users/s592100/Downloads/ejml-v0.32-libs/ejml-dsparse-0.32.jar"/>
+	<classpathentry kind="lib" path="C:/Users/s592100/Downloads/ejml-v0.32-libs/ejml-experimental-0.32.jar"/>
+	<classpathentry kind="lib" path="C:/Users/s592100/Downloads/ejml-v0.32-libs/ejml-fdense-0.32.jar"/>
+	<classpathentry kind="lib" path="C:/Users/s592100/Downloads/ejml-v0.32-libs/ejml-zdense-0.32.jar"/>
+	<classpathentry kind="src" path="/LearnHasyn"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
