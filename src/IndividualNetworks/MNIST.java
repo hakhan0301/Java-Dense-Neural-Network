@@ -11,7 +11,8 @@ import NeuralNets.BackProp;
 
 public class MNIST {
 
-	public static String fileStart = "C:/Users/s592100/Desktop/7 - Independant Study/MNIST Dataset/Original/";
+	//location of MNIST Dataset
+	public static String fileStart = "MNIST Dataset/Original/";
 	public static String imagesFile = fileStart + "train-images.idx3-ubyte";
 	public static String labelsFile = fileStart + "train-labels.idx1-ubyte";
 
